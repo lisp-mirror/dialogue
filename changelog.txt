@@ -1,0 +1,7 @@
+
+version 1.0
+december 2006
+
+version .5
+march 2005
+first release
